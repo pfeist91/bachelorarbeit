@@ -19,3 +19,6 @@ Mithilfe des decode-Notebooks können entweder Zusammenfassungen aus dem CNN/Dai
 
 ### Evaluierung mit Pyrouge
 *Pyrouge* kann nur bedingt in der Colab Umgebung ausgeführt werden. Ich empfehle die lokale Nutzung. Siehe dazu [Anleitung auf Stackoverflow](https://stackoverflow.com/questions/47045436/how-to-install-the-python-package-pyrouge-on-microsoft-windows).
+
+## Trainiertes Modell der Bachelorarbeit
+Das trainierte Modell kann [hier](https://drive.google.com/open?id=1DlaXNvn4WPg-xWyCdVeOAjpGL5ezjwHr) heruntergeladen und zur Zusammenfassungserstellung genutzt werden.
