@@ -18,7 +18,7 @@ Nachdem das Training gestartet wurde, sollte parallel das eval-Notebook mit den 
 Mithilfe des decode-Notebooks können entweder Zusammenfassungen aus dem CNN/Dailymail - Datensatz angefertigt werden oder aber auch eigene Texte eingebunden werden. Das Modell erwartet diese jedoch als .bin-Datei. Für die Konvertierung siehe [@dondon2475848](https://github.com/dondon2475848/make_datafiles_for_pgn).
 
 ### Evaluierung mit Pyrouge
-*Pyrouge* kann nur bedingt in der Colab Umgebung ausgeführt werden. Ich empfehle die lokale Nutzung. Siehe dazu [Anleitung auf Stackoverflow](https://stackoverflow.com/questions/47045436/how-to-install-the-python-package-pyrouge-on-microsoft-windows).
+*Pyrouge* kann nur bedingt in der Colab Umgebung ausgeführt werden. Es empfiehlt sich die lokale Nutzung. Siehe dazu [Anleitung auf Stackoverflow](https://stackoverflow.com/questions/47045436/how-to-install-the-python-package-pyrouge-on-microsoft-windows).
 
 ## Trainiertes Modell der Bachelorarbeit
 Das trainierte Modell kann [hier](https://drive.google.com/open?id=1DlaXNvn4WPg-xWyCdVeOAjpGL5ezjwHr) heruntergeladen und zur Zusammenfassungserstellung genutzt werden.
