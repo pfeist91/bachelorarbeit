@@ -1,1 +1,0 @@
-# Testdaten für die Zusammenfassungserstellung
