@@ -22,3 +22,6 @@ Mithilfe des decode-Notebooks können entweder Zusammenfassungen aus dem CNN/Dai
 
 ## Trainiertes Modell der Bachelorarbeit
 Das trainierte Modell kann [hier](https://drive.google.com/open?id=1DlaXNvn4WPg-xWyCdVeOAjpGL5ezjwHr) heruntergeladen und zur Zusammenfassungserstellung genutzt werden.
+
+## Erzeugte Zusammenfassungen
+Die Datei [erzeugte_zusammenfassungen.md](erzeugte_zusammenfassungen.md) stellt alle Zusammenfassungen zur Verfügung, die manuell, vom vortrainierten Modell von [@abisee](https://github.com/abisee) und vom Modell der Bachelorarbeit erzeugt wurden.
